@@ -85,4 +85,4 @@ Compile e execute:
   ```
 **Inversão de String:**
   - Entrada: Programador
-  - Saída: rodammargoP
+  - Saída: rodamargorP
